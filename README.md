@@ -16,6 +16,7 @@ for marketplace, creator-economy and e-learning products.
 | [playwright-ts-qa-framework](https://github.com/paramdl/playwright-ts-qa-framework) | 57 UI + API tests, page objects, typed API client, Chromium + WebKit, axe a11y gate, CI on every push |
 | [selenium-cucumber-bdd-framework](https://github.com/paramdl/selenium-cucumber-bdd-framework) | Java 17 + Selenium 4 + Cucumber 7 BDD: 20 scenarios, page objects, explicit waits, Extent reports, CI |
 | [authenticated-load-tester](https://github.com/paramdl/authenticated-load-tester) | Load testing behind a login: real sessions, TTFB + p95 per page, HTML/CSV/JSON reports, CI error-rate gate |
+| [qa-bug-logger](https://github.com/paramdl/qa-bug-logger) | Bug logging with evidence (CSV or Google Sheets/Drive) + automatic retests that resolve fixed bugs, CI gate |
 | [qa-framework-template](https://github.com/paramdl/qa-framework-template) | Reusable harness: page sweeps, SEO, API, a11y, security headers, perf budgets, capability-gated BVT |
 | [appium-android-crawler](https://github.com/paramdl/appium-android-crawler) | Exploratory Android crawler that files crash / freeze reports with video and logcat |
 | [design-qa-auditor](https://github.com/paramdl/design-qa-auditor) | Audits a live site against a design-system spec (typography, spacing, colours) |
